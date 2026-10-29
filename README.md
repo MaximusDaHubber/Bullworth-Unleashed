@@ -1,6 +1,14 @@
 # Bullworth Unleashed
 
-A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with a **16-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, a brand-new Hitman suit and Halloween costumes and more.
+A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with a **17-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **mission replay**, **249 playable characters** with their own fighting styles, a music selector and more.
+
+## New in v1.2
+
+- **Mission Replay** - replay any story mission you've finished, chapter by chapter. The chapter can't change, everything is put back afterwards, chapter 3 is snowy, Halloween is at night, and missions that lead into each other in the story still do
+- **Play as: 249 characters** - every clique, the girls, students, teachers, town people and everyone's other outfits, each with their own fighting style (boss moves for the bosses, Norton's sledgehammer, Bif's boxing, the girls' slaps and kicks), or pick any of 30 styles yourself
+- **Music selector** - 234 of the game's songs (World > Music)
+- **Cheats** - God mode moved here, **Never get wanted**, **Kiss everyone** (teenage students only)
+- **Hairstyles** moved to Outfits
 
 ## New in v1.1 - the Halloween update
 
@@ -32,28 +40,14 @@ The full controls and how every mode works are in `BullworthUnleashed\README.txt
 
 **Sandbox tools**
 - **Superpowers** - flight, super jump, super strength, god mode, slow motion, fire shockwave, telekinesis
-- **Cheats** - infinite ammo, all weapons, money, carnival tickets, freeze time, any hairstyle, all collectibles
+- **Cheats** - god mode, never get wanted, infinite ammo, kiss everyone, all weapons, money, carnival tickets, freeze time, all collectibles
 - **Teleport** - Rockstar's own debug teleport list
-- **World** - time, weather (snow and Christmas snow too), holiday decorations
-- **Play as** - play as other characters, fighting works with all of them
-- **Outfits** - the game's special outfits, the new Hitman suit, 6 Halloween costumes and the **wardrobe anywhere**
+- **World** - music selector, time, weather (snow and Christmas snow too), holiday decorations
+- **Play as** - 249 characters, each with their own fighting style, or pick any of 30 styles
+- **Outfits** - the game's special outfits, the new Hitman suit, 6 Halloween costumes, hairstyles and the **wardrobe anywhere**
 - **Vehicles** - bikes, karts, cars and the 3D arcade ships
 - **Spawner** - friends, enemies, group fights and the boss-fight versions of the story bosses
 
 **Game modes**
 - **Arcade** - Rockstar's hidden full 3D version of the arcade race
-- **GTA Wanted System** - 1 to 5 stars with prefects, cops, orderlies and the Principal
-- **Zombie Mode** - waves of zombies at night with zombie bosses (switch on Zombie Skins for the full zombie look)
-- **Hitman: Bullworth** - contracts, disguises and Silent Assassin ratings
-- **Heists** - hold up shops, then escape the cops to keep the cash
-- **Boss Rush** - all 7 story bosses back to back in Russell's pit
-- **Gang Wars** - join a clique and take Bullworth district by district
-- **Halloween Night** - always night, Halloween decorations and costume kids everywhere
-
-## Credits
-
-- **snowgooble** (also known as derpy54320) - Derpy's Script Loader, which this whole pack runs on
-- **Razcoina** - the decompiled Bully SE scripts, used as a reference (not included)
-- **Bully Scripting Docs** - the function reference for DSL and the game's scripts
-- **Silent** - SilentPatch for Bully
-- **Rockstar Games** - Bully
+- **GTA Wanted System** - 1 to 5 stars with pref
