@@ -2,6 +2,17 @@
 
 A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with an **18-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **Fight Club**, **carjacking**, **mission replay** with a cutscene viewer, **249 playable characters** with their own fighting styles, a music selector and more.
 
+## New in v1.3.1
+
+- **Respect for everyone** - Non-clique students, Girls and Adults too, with steps of 25, 50 and 75% (Cheats > Clique respect)
+- **New cheats** - Infinite mission & minigame timers, Infinite ally health
+- **World** - pick the hour, Camera FOV
+- **Spawner** - new Girls, Kids, Non-clique students and Adults pages
+- **Carjacking** - only cops come after you, no prefects
+- **Fixes** - Mission Replay (weapons back, always from the beginning, Russell's and Johnny's hits do damage, music), Boss Rush (music, Edgar), the trouble meter after any mission, weapons going into Jimmy's hands, god mode after cutscenes
+
+Thanks to **ussi11** for the bug reports and for most of these ideas.
+
 ## New in v1.3
 
 - **Fight Club** - a tournament in Russell's pit with betting, and endless fights in 14 arenas with 9 difficulties, boss rounds, a shop, allies, gambling, stocks and a robbery
@@ -77,7 +88,8 @@ The full controls and how every mode works are in `BullworthUnleashed\README.txt
 
 - **snowgooble** (also known as derpy54320) - Derpy's Script Loader, which this whole pack runs on
 - **derpy54320** - his Fight Club 2.3 mod inspired ours (arenas, boss rounds, shop)
-- **ussi11** - ideas for clique respect, Boss Rush all at once, menu sounds and colors, cutscene viewer
+- **ussi11** - the bug reports behind 1.3.1, and ideas for clique respect, Boss Rush all at once, menu sounds and colors, cutscene viewer, infinite timers and ally health, time by the hour, camera FOV, cops for carjacking
+- **derpy54320** - Bully LUA Reference
 - **Razcoina** - the decompiled Bully SE scripts, used as a reference (not included)
 - **Bully Scripting Docs** - the function reference for DSL and the game's scripts
 - **Silent** - SilentPatch for Bully
