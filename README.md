@@ -1,6 +1,21 @@
 # Bullworth Unleashed
 
-A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with an **18-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **Fight Club**, **carjacking**, **mission replay** with a cutscene viewer, **249 playable characters** with their own fighting styles, a music selector and more.
+A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with a **19-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **Fight Club**, **carjacking**, **mission replay** with a cutscene viewer, **249 playable characters** with their own fighting styles, a music selector and more.
+
+## New in v1.4
+
+**Updating? Run `BullworthUnleashed\Install new outfits.bat` again with Bully closed.**
+
+- **Police** - go on duty as a cop: dispatch calls, suspects who run, fight or give up, real arrests, reporting people so backup comes, your own police car and bike, arrests and earnings saved
+- **Cop uniform** and **Superman costume** in Custom outfits; the uniform is also an officer choice on the Police page
+- **Clock speed** (World) - from real time up to a 4 minute day
+- **Wanted** - cops follow you into buildings; no stars during missions and minigames
+- **Custom outfits** - kids don't laugh at them any more, and the last costume's hat comes off
+- **Clique Showdown** (Fight Club) - 20 waves, clique by clique, each with its leader in the last wave, the shop between waves, betting on yourself and its own score
+- **Boxing crowd** - cheers and boos during Fight Club fights
+- **Save anywhere** and a **save prompt after missions** (Cheats)
+
+Idea for Clique Showdown by **ussi11**.
 
 ## New in v1.3.1
 
@@ -54,7 +69,7 @@ Get the latest zip from the **[Releases](../../releases)** page.
 
 1. Close Bully.
 2. Extract the zip into your Bully folder (the one with `Bully.exe`). Nothing of the game is replaced.
-3. Run `BullworthUnleashed\Install new outfits.bat` once to make the Hitman suit and the Halloween costumes wearable (updating from 1.0? run it too - it only adds what's missing).
+3. Run `BullworthUnleashed\Install new outfits.bat` once to make the Hitman suit and the Halloween costumes wearable (updating? run it again - it only changes what's missing or different).
 4. Optional: run `BullworthUnleashed\Zombie skins ON.bat` for the full zombie look (`Zombie skins OFF.bat` switches it back).
 5. Start the game and open the menu: **M** on keyboard, **hold LT + Look Back** on controller.
 
@@ -82,14 +97,19 @@ The full controls and how every mode works are in `BullworthUnleashed\README.txt
 - **Gang Wars** - join a clique and take Bullworth district by district
 - **Halloween Night** - always night, Halloween decorations and costume kids everywhere
 - **Mission Replay** - replay any story mission you've finished, with safeguards, and the cutscene viewer
-- **Fight Club** - tournaments with betting and endless fights in 14 arenas
+- **Fight Club** - tournaments with betting, endless fights in 14 arenas and the 20-wave Clique Showdown
+- **Police** - go on duty as a cop: calls, chases and arrests
 
 ## Credits
 
 - **snowgooble** (also known as derpy54320) - Derpy's Script Loader, which this whole pack runs on
 - **derpy54320** - his Fight Club 2.3 mod inspired ours (arenas, boss rounds, shop)
 - **ussi11** - the bug reports behind 1.3.1, and ideas for clique respect, Boss Rush all at once, menu sounds and colors, cutscene viewer, infinite timers and ally health, time by the hour, camera FOV, cops for carjacking
-- **derpy54320** - Bully LUA Reference
+- **derpy54320** - Bully LUA Reference; his Police Mod inspired ours
+- **derpy54320 & SWEGTA** - the sprint method from their First Person Mod
+- **SterlingC32** - Slower Game Clock showed the clock speeds
+- **tupakka1** - Master Mod gave the idea of police following you indoors
+- **SimonBestia**, **nickm8** - Save Anywhere showed how to open the save screen
 - **Razcoina** - the decompiled Bully SE scripts, used as a reference (not included)
 - **Bully Scripting Docs** - the function reference for DSL and the game's scripts
 - **Silent** - SilentPatch for Bully
