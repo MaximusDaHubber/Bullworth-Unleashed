@@ -1,6 +1,19 @@
 # Bullworth Unleashed
 
-A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with a **19-page in-game mod menu**: superpowers, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **Fight Club**, **carjacking**, **mission replay** with a cutscene viewer, **249 playable characters** with their own fighting styles, a music selector and more.
+A huge all-in-one mod for **Bully: Scholarship Edition** (PC) with a **21-page in-game mod menu**: superpowers, **take control of anyone**, zombie mode, a spawner with the boss-fight versions of every boss, Hitman contracts, a GTA wanted system, shop heists, Boss Rush, Gang Wars with a live turf map, Halloween night, **Fight Club**, **carjacking**, **mission replay** with a cutscene viewer, **249 playable characters** with their own fighting styles, a music selector and more.
+
+## New in v1.5
+
+- **Take control** - become anyone in town and play as them with Jimmy's controls, then jump into the next person
+- **People** - lock on to anyone: Fight Maker (two people fight), Provoke, KO, health bars, change their look, fighting style, weapon or stats
+- **Super durability** - take 3 times less damage; all superpowers work on whoever you've taken control of
+- **Hide HUD** - P / Look Back + D-pad up, for clean pictures and videos
+- **Trouble meter** (Cheats) - always empty, 1 bar, 2 bars or always full; the most-used cheats are on top now
+- **Spawner** - health and weapon for new spawns, bring everyone to you, no prefects / teachers / cops
+- **Fixes** - weapons stay in Mission Replay, Edgar's music in Showdown at the Plant, enemies fight back at your allies, greet and taunt your allies, Camera FOV and Clock speed kept in your save
+- **Clique Showdown** - every clique fights to its own song; **Boss Rush** - Ted instead of Damon
+
+Most of the fixes and several ideas by **ussi11**.
 
 ## New in v1.4
 
@@ -65,6 +78,10 @@ Get the latest zip from the **[Releases](../../releases)** page.
 - **Derpy's Script Loader (DSL) 16 or newer** - install this first
 - Recommended: **SilentPatch for Bully** (not required)
 
+## Doesn't work together with
+
+- **Clique Boss Music Mod:** its `CliqueBossMusic_OnlyBosesAndNoIntroMissions.lua` makes Boss Rush silent. Take that file out for Boss Rush music; everything else works next to it.
+
 ## Install
 
 1. Close Bully.
@@ -85,7 +102,9 @@ The full controls and how every mode works are in `BullworthUnleashed\README.txt
 - **Play as** - 249 characters, each with their own fighting style, or pick any of 30 styles
 - **Outfits** - the game's special outfits, the new Hitman suit, 6 Halloween costumes, hairstyles and the **wardrobe anywhere**
 - **Vehicles** - bikes, karts, cars and the 3D arcade ships, plus carjacking
-- **Spawner** - friends, enemies, group fights and the boss-fight versions of the story bosses
+- **Spawner** - friends, enemies, group fights and the boss-fight versions of the story bosses, with health and weapon settings
+- **Take control** - become anyone in town and play as them
+- **People** - Fight Maker, Provoke, KO, health bars, change anyone's look, style, weapon and stats
 
 **Game modes**
 - **Arcade** - Rockstar's hidden full 3D version of the arcade race
@@ -110,6 +129,10 @@ The full controls and how every mode works are in `BullworthUnleashed\README.txt
 - **SterlingC32** - Slower Game Clock showed the clock speeds
 - **tupakka1** - Master Mod gave the idea of police following you indoors
 - **SimonBestia**, **nickm8** - Save Anywhere showed how to open the save screen
+- **Altamurenza** - his trainers gave the idea of taking control of anyone and Provoke
+- **J_Striker_A** - Ultimate Selector gave Fight Maker, health bars, stats and spawn settings
+- **DaBOSS54320** - Super Mods gave bringing your people to you and KO
+- **uShinyu** - Bullworth ReVision - PhotoMode showed that pausing the clock hides it
 - **Razcoina** - the decompiled Bully SE scripts, used as a reference (not included)
 - **Bully Scripting Docs** - the function reference for DSL and the game's scripts
 - **Silent** - SilentPatch for Bully
